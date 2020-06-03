@@ -1,9 +1,9 @@
 # Flutter UI - Worker
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/ibc7UUJrcbM)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1kg4y1i7TT/)
 
 ### UI 
 
@@ -17,7 +17,7 @@ Bilibili : [Watch it on Bilibili]()
 
 ### Worker Final UI
 
-<div align=center> <img src = '01.png' width = '500' ></div>
+<div align=center> <img src = '01.png' ></div>
 
 
 
